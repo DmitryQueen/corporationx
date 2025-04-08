@@ -12,7 +12,6 @@ Each service listed below is isolated from the original corporate repositories a
 - [`notification_service`](https://github.com/DmitryQueen/notification_service)
 - [`payment_service`](https://github.com/DmitryQueen/payment_service)
 - [`post_service`](https://github.com/DmitryQueen/post_service)
-- [`project_service`](https://github.com/DmitryQueen/project_service)
 - [`url_shortener_service`](https://github.com/DmitryQueen/url_shortener_service)
 - [`user_service`](https://github.com/DmitryQueen/user_service)
 ---
